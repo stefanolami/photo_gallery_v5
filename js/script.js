@@ -1,7 +1,6 @@
 
 let search = document.querySelector("#search");
 let photos = document.querySelectorAll("a");
-let searchValue = search.value.toLowerCase();
 
 
 search.addEventListener("keydown", () => {
